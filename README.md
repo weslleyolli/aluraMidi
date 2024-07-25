@@ -28,10 +28,6 @@ Ringtones is a simple yet entertaining web application where users can press but
 - **Framework:** No specific framework, just vanilla JavaScript for simplicity and performance.
 - **Audio Handling:** Uses the HTML5 `<audio>` element to play sound files.
 
-## Screenshot
-
-![Ringtones UI](./Ringstones.png)
-
 ## How to Use
 
 1. **Clone the Repository:**
